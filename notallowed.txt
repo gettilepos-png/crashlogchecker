@@ -1,0 +1,8 @@
+meteor
+meteorite
+xray
+wurst
+auto_aim
+seedcracker
+seed
+baritone
