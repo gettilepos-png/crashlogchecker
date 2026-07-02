@@ -1,5 +1,6 @@
 meteor
 meteorite
+meteroite
 xray
 wurst
 auto_aim
