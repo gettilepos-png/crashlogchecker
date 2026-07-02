@@ -7,3 +7,5 @@ auto_aim
 seedcracker
 seed
 baritone
+feather
+ichor
