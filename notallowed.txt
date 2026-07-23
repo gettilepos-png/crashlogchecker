@@ -9,3 +9,5 @@ seed
 baritone
 feather
 ichor
+dawn
+xtoxray
